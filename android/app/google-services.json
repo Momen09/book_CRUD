@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "412431963048",
+    "project_id": "elocalize",
+    "storage_bucket": "elocalize.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412431963048:android:70b815ae893efd6052c39d",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKqa4mEANozZCSknzaE_8AwE2SufXAhjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412431963048:android:05ee4284ae1abd8852c39d",
+        "android_client_info": {
+          "package_name": "com.example.elocalize_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKqa4mEANozZCSknzaE_8AwE2SufXAhjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
